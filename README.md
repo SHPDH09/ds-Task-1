@@ -3,7 +3,7 @@
 <h2>ID: CT6WDS56</h2>
 <h2>Domain: Data Science</h2>
 <h2>Task: Task-1(EDA)/h2>
-<h2>Duration: 4 Weeks</h2>
+<h2>Duration: 6 Weeks</h2>
 <h2>Mentor: Santosh Anna</h2>
 <h1>Program Description</h1>
 <p>Data analysis is a comprehensive process that involves several critical steps to transform raw data into actionable insights. The journey begins with data collection from diverse sources, ensuring that the information gathered is relevant and comprehensive.</p>
