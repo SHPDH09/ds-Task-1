@@ -2,7 +2,7 @@
 <h2>Name: Raunak Kumar</h2>
 <h2>ID: CT6WDS56</h2>
 <h2>Domain: Data Science</h2>
-<h2>Task: Task-1(EDA)/h2>
+<h2>Task: Task-1(EDA)</h2>
 <h2>Duration: 6 Weeks</h2>
 <h2>Mentor: Santosh Anna</h2>
 <h1>Program Description</h1>
